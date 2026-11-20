@@ -167,7 +167,6 @@ Além dos cenários automatizados, o fluxo foi repetido manualmente pela página
 ## 10. Limitações
 
 - A **subscription filter policy** do SNS não foi vista nos slides; foi escolhida para usar um tópico único com entrega seletiva.
-- **Function URLs públicas** (Auth NONE); `sebo-carga` apaga dados e fica exposta. Desativar as URLs após a apresentação.
 - Uso de **`scan`** com filtro em vez de índice (GSI não foi visto; volume pequeno).
 - Credenciais e sessão do Learner Lab são temporárias.
 - Em `sebo-processa-espera`, se o pedido já tiver sido tratado por outra execução, o exemplar baixado é devolvido ao estoque (compensação adicionada para não perder estoque em reentrega do Stream).
