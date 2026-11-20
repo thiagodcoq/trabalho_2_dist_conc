@@ -1,0 +1,4 @@
+{
+  "body": "{\"email\": \"thiagodc987@gmail.com\", \"livro_id\": \"L001\"}",
+  "requestContext": {"http": {"method": "POST"}}
+}

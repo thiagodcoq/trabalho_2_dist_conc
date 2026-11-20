@@ -1,0 +1,15 @@
+{
+  "acao": "seed",
+  "livros": [
+    {"livro_id": "L001", "titulo": "Dom Casmurro", "autor": "Machado de Assis", "preco": 25.5, "quantidade": 2},
+    {"livro_id": "L002", "titulo": "O Cortiço", "autor": "Aluísio Azevedo", "preco": 18, "quantidade": 0},
+    {"livro_id": "L003", "titulo": "Grande Sertão: Veredas", "autor": "Guimarães Rosa", "preco": 40, "quantidade": 1},
+    {"livro_id": "L004", "titulo": "Memórias Póstumas de Brás Cubas", "autor": "Machado de Assis", "preco": 22, "quantidade": 0}
+  ],
+  "clientes": [
+    {"email": "thiagodc987@gmail.com", "nome": "Cliente A"},
+    {"email": "guigagratz@hotmail.com", "nome": "Cliente B"},
+    {"email": "gratzguilherme@gmail.com", "nome": "Cliente C"},
+    {"email": "ggratzbiladeiro@gmail.com", "nome": "Cliente D"}
+  ]
+}

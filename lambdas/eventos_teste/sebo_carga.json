@@ -1,0 +1,4 @@
+{
+  "body": "{\"acao\": \"reset\"}",
+  "requestContext": {"http": {"method": "POST"}}
+}

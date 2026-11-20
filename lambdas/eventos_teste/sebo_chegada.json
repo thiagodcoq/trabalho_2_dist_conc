@@ -1,0 +1,4 @@
+{
+  "body": "{\"livro_id\": \"L001\", \"quantidade\": 1}",
+  "requestContext": {"http": {"method": "POST"}}
+}

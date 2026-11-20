@@ -1,0 +1,22 @@
+{
+  "Records": [
+    {
+      "eventName": "MODIFY",
+      "dynamodb": {
+        "Keys": {"pedido_id": {"S": "00000000-0000-0000-0000-000000000001"}},
+        "OldImage": {
+          "pedido_id": {"S": "00000000-0000-0000-0000-000000000001"},
+          "email": {"S": "thiagodc987@gmail.com"},
+          "livro_id": {"S": "L001"},
+          "status": {"S": "AGUARDANDO"}
+        },
+        "NewImage": {
+          "pedido_id": {"S": "00000000-0000-0000-0000-000000000001"},
+          "email": {"S": "thiagodc987@gmail.com"},
+          "livro_id": {"S": "L001"},
+          "status": {"S": "RESERVADO"}
+        }
+      }
+    }
+  ]
+}

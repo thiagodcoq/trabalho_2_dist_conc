@@ -1,0 +1,12 @@
+{
+  "Records": [
+    {
+      "eventName": "MODIFY",
+      "dynamodb": {
+        "Keys": {"livro_id": {"S": "L001"}},
+        "OldImage": {"livro_id": {"S": "L001"}, "titulo": {"S": "Dom Casmurro"}, "quantidade": {"N": "0"}},
+        "NewImage": {"livro_id": {"S": "L001"}, "titulo": {"S": "Dom Casmurro"}, "quantidade": {"N": "1"}}
+      }
+    }
+  ]
+}

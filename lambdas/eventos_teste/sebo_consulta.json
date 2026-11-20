@@ -1,0 +1,4 @@
+{
+  "queryStringParameters": {"tipo": "livros"},
+  "requestContext": {"http": {"method": "GET"}}
+}
